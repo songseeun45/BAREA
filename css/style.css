@@ -158,7 +158,9 @@ h1 {
     left: 20%;
     color: #fff;
 }
-
+.gnb li a:hover{
+    color: #077561;
+}
 .gnb li a {
     padding: 20px;
 }
